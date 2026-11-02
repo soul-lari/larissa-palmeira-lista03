@@ -1,15 +1,15 @@
-body{
-    font-family: Arial, sans-serif; 
+body {
+    font-family: Arial, sans-serif;
     margin: 20px;
 }
 
-#cards{
+#cards {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
 }
 
-.card{
+.card {
     border: 1px solid gray;
     padding: 15px;
     width: 250px;
@@ -21,9 +21,7 @@ body{
     background-color: lightblue;
 }
 
-#total{
-    font-weight: bold; 
+#total {
+    font-weight: bold;
     margin-top: 20px;
 }
-
-
